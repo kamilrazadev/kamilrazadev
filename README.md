@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mkamilraza_dev" target="blank"><img src="https://img.shields.io/twitter/follow/mkamilraza_dev?logo=twitter&style=for-the-badge" alt="mkamilraza_dev" /></a> </p>
 
-- 🌱 I’m currently learning **React JS, MERN Stack, UI Designing**
+- 🌱 I’m currently learning **MERN Stack, UI Designing**
 
 - 💬 Ask me about **Frontend Development, C, C++, Java**
 
