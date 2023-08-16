@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M Kamil Raza</h1>
-<h3 align="center">A passionate frontend developer & Graphic Designer from Pakistan</h3>
+<h3 align="center">A Passionate Frontend Developer & Graphic Designer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamilrazadev&label=Profile%20views&color=0e75b6&style=flat" alt="kamilrazadev" /> </p>
 
