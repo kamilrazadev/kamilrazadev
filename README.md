@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamilrazadev" alt="kamilrazadev" /></a> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/kamilrazadev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamilrazadev" /></a> </p>
-
 - 🌱 I’m currently learning **React Native**, also eager to learn **Flutter**
 
 - 💬 Ask me about **Full Stack Web Development, C, C++, Java**
