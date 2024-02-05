@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M Kamil Raza</h1>
-<h3 align="center">A Passionate Frontend Developer & Graphic Designer from Pakistan</h3>
+<h3 align="center">A Passionate Full Stack Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamilrazadev&label=Profile%20views&color=0e75b6&style=flat" alt="kamilrazadev" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mkamilraza_dev" target="blank"><img src="https://img.shields.io/twitter/follow/mkamilraza_dev?logo=twitter&style=for-the-badge" alt="mkamilraza_dev" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack, UI Designing**
+- 🌱 I’m currently learning **React Native**, also eager to learn **Flutter**
 
-- 💬 Ask me about **Frontend Development, C, C++, Java**
+- 💬 Ask me about **Full Stack Web Development, C, C++, Java**
 
-- 📫 How to reach me **m.kamilrazabhatti@gmail.com**
+- 📫 How to reach me **kamilrazadev@gmail.com**
 
 - ⚡ Fun fact **I'm Funny**
 
