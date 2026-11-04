@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070a,50:0e75b6,100:38bdf8&height=200&section=header&text=Muhammad%20Kamil%20Raza&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%26%20Team%20Lead&descAlignY=58&descSize=18" width="100%" alt="Muhammad Kamil Raza" />
+<img src="./assets/header.svg" width="100%" alt="Muhammad Kamil Raza — Full Stack Developer & Team Lead" />
 
 <a href="https://kamilraza.online">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+fast%2C+scalable+web+products;MERN+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Leading+a+12-developer+team;MVPs+shipped+in+3%E2%80%936+weeks" alt="Typing intro" />
@@ -169,14 +169,15 @@ const kamil = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamilrazadev&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilrazadev&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details" />
+
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most committed languages" />
+
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per language" />
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive time" />
 
 <img src="https://streak-stats.demolab.com/?user=kamilrazadev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamilrazadev&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=kamilrazadev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
 
 </div>
 
@@ -192,6 +193,5 @@ I'm open to **full-time roles** as well as **freelance and contract projects**. 
 <a href="https://twitter.com/kamilraza_dev"><img src="https://img.shields.io/badge/X-@kamilraza__dev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://www.hackerrank.com/kamilrazadev"><img src="https://img.shields.io/badge/HackerRank-kamilrazadev-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0e75b6,100:07070a&height=120&section=footer" width="100%" />
 
 </div>
