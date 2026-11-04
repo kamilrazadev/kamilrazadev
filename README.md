@@ -9,7 +9,7 @@
 <p>
   <a href="https://kamilraza.online"><img src="https://img.shields.io/badge/Portfolio-kamilraza.online-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/kamilrazadev"><img src="https://img.shields.io/badge/LinkedIn-kamilrazadev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kamilraza@teamsyncglobal.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:contact@kamilraza.online"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://kamilraza.online/Muhammad-Kamil-Raza-CV.pdf"><img src="https://img.shields.io/badge/Resume-Download-22c55e?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
 </p>
 
