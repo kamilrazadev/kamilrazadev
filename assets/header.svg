@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07070a"/>
+      <stop offset="55%" stop-color="#0b3a5c"/>
+      <stop offset="100%" stop-color="#0e75b6"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#7dd3fc"/>
+    </linearGradient>
+    <style>
+      .name { font: 700 56px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: url(#txt); }
+      .role { font: 500 22px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #bae6fd; letter-spacing: 3px; }
+      .wave { animation: drift 8s ease-in-out infinite alternate; }
+      .wave2 { animation: drift 11s ease-in-out infinite alternate-reverse; }
+      .fade { opacity: 0; animation: in 1.2s ease-out forwards; }
+      .fade2 { opacity: 0; animation: in 1.2s ease-out .5s forwards; }
+      @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-60px); } }
+      @keyframes in { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+  </defs>
+  <rect width="1200" height="240" rx="18" fill="url(#bg)"/>
+  <g opacity="0.25" fill="#38bdf8">
+    <path class="wave" d="M0 190 Q150 150 300 190 T600 190 T900 190 T1200 190 T1500 190 V240 H0 Z"/>
+    <path class="wave2" d="M0 205 Q150 175 300 205 T600 205 T900 205 T1200 205 T1500 205 V240 H0 Z" opacity="0.6"/>
+  </g>
+  <g fill="#7dd3fc" opacity="0.35">
+    <circle cx="90" cy="50" r="3"/><circle cx="1080" cy="40" r="2.5"/><circle cx="1010" cy="120" r="2"/>
+    <circle cx="180" cy="130" r="2"/><circle cx="1140" cy="150" r="3"/><circle cx="60" cy="160" r="2"/>
+  </g>
+  <text x="600" y="112" text-anchor="middle" class="name fade">Muhammad Kamil Raza</text>
+  <text x="600" y="152" text-anchor="middle" class="role fade2">FULL STACK DEVELOPER  ·  TEAM LEAD</text>
+</svg>

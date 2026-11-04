@@ -1,0 +1,19 @@
+name: Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day at 05:00 Pakistan time
+  workflow_dispatch: # lets you run it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 5
